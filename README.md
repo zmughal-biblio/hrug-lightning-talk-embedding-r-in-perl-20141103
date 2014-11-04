@@ -1,6 +1,6 @@
 ## R-extensions and embedding R in Perl
 
-Houston R Users Group meeting on 2014-11-03
+Houston R Users Group meeting on 2014-11-03 ([link](http://www.meetup.com/houstonr/events/213422942/)).
 
 Slides are in the `slides/` directory.
 
